@@ -9,9 +9,6 @@ Project Name: Zomato-Data-Analysis
 Author      : Prince Sandal Jain
 Date        : 2024-09-08
 
-# Usage
-This script loads the Zomato dataset, performs data preprocessing, and answers several business questions through data analysis and visualization.
-
 # Key Libraries Used:
 Pandas: For data manipulation.
 NumPy: For numerical operations.
@@ -47,9 +44,12 @@ Order Mode Preferences: Dining restaurants see more offline orders, while cafes 
 
 # Screenshots
 The visualizations for each analysis question are saved as images in this repository.
-Types of Restaurants Visualization: 
-Votes Received by Restaurant Types:
-Ratings Distribution:
-Approx Cost for Couples:
-Online vs Offline Order Ratings:
-Heatmap of Offline Orders:
+Types of Restaurants Visualization: https://github.com/Prince-Sandal-J/Zomato-Data-Analysis/blob/454d19d2f66928f3b1282083c024e83893bc7427/Solution%201.png
+Votes Received by Restaurant Types: https://github.com/Prince-Sandal-J/Zomato-Data-Analysis/blob/454d19d2f66928f3b1282083c024e83893bc7427/Solution%202.png
+Ratings Distribution: https://github.com/Prince-Sandal-J/Zomato-Data-Analysis/blob/454d19d2f66928f3b1282083c024e83893bc7427/Solution%203.png
+Approx Cost for Couples: https://github.com/Prince-Sandal-J/Zomato-Data-Analysis/blob/454d19d2f66928f3b1282083c024e83893bc7427/Solution%204.png
+Online vs Offline Order Ratings: https://github.com/Prince-Sandal-J/Zomato-Data-Analysis/blob/454d19d2f66928f3b1282083c024e83893bc7427/Solution%205.png
+Heatmap of Offline Orders: https://github.com/Prince-Sandal-J/Zomato-Data-Analysis/blob/454d19d2f66928f3b1282083c024e83893bc7427/Solution%206.png
+
+# License
+This project is licensed under the MIT License.
